@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "hopekekane06@gmail.com",
-    "password": "HOPE KEKANE",
+    "email": "Chiccin2@gmail.com",
+    "password": "GOATBOTV3",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564459952029"
+    "100079267516878"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝑪𝒉𝒆𝒔𝒄𝒂 𝑨𝒊 ➠ [ / ]࿐",
+  "nickNameBot": "hiro𝄞",
   "prefix": "/",
   "database": {
     "type": "sqlite",
